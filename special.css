@@ -1,0 +1,22 @@
+
+
+a {
+        font-family: "Sacramento";
+        font-size: 48px;
+      }
+
+
+.container {
+    position: absolute;
+    top: 50%;
+    margin-top: -50px;
+    width: 100%;
+    height:400px;
+    text-align: center;
+}
+
+.st-title { 
+	font-family: "Sacramento";
+	font-size: 60px;
+	text-align: center;
+}
