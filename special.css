@@ -33,12 +33,12 @@ nav ul {
     
 /* border: 1px solid white; */
     height: 50px; 
-    width: 450px;
+    width: 600px;
     margin: 0 auto;
  }
 nav ul li { 
     list-style-type: none; 
-    width: 150px;
+    width: 600px;
     float: left; 
     text-align: center;
  }
